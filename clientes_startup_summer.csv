@@ -1,0 +1,147 @@
+﻿ID,Nombre_Alumnos,Genero_Alumno,Edad,Grupo,Nombre_Tutor,Genero_Tutor,Paquete ,Semanas,Colonia,Municipio,C.P.,Escuela ,Hermanos,Compra 
+1,Fernando Vargas Rodriguez ,Masculino,4,1,Vania Rodriguez,Femenino,Normal,3,NA,NA,NA,NA,0,Si
+2,Ivan Rasid,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,No
+3,Miguel Ángel Vargas,Masculino,12,3,Guillermina López,Femenino,Alimento,3,NA,NA,NA,NA,1,Si
+4,Ian Montoya Tenorio,Masculino,8,1,Miriam Tenorio Rico,Femenino,Normal,3,NA,NA,NA,NA,0,Si
+5,Maria Palomino ,Femenino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,No
+6,Andrei Quetzal López,Masculino,NA,NA,NA,NA,Alimento,3,NA,NA,NA,NA,0,No
+7,Sayed Charbel,Masculino,14,3,Carlos Galdoz Bustamante,Masculino,Normal,3,NA,NA,NA,NA,0,Si
+8,Andrea Zuleta Malanco,Femenino,12,3,Diana Malanco Villena,Femenino,Alimento,3,NA,NA,NA,NA,0,Si
+9,Jorge Ochoa Arteaga ,Masculino,13,3,Iris Arteaga ,Femenino,Normal,2,NA,Aguascalientes,NA,NA,3,Si
+10,Rogelio Ortega Hernández,Masculino,7,1,Rogelio Ortega Padilla,Masculino,Alimento,3,NA,NA,NA,NA,0,Si
+11,Amelie Espinoza Viscencio,Femenino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,No
+12,Emiliano Santillan ,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,No
+13,Santiago Ortiz Corzo,Masculino,7,1,Omar Ulisis Ortiz Jaramillo,Masculino,Normal,3,NA,NA,NA,NA,0,Si
+14,Natalia Diaz Naa,Femenino,NA,NA,NA,NA,Alimento,3,NA,NA,NA,NA,0,No
+15,Yair Diaz Pardo,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,No
+16,Juan Solis Jiménez,Masculino,5,1,Giovani Solis ,Femenino,Alimento,3,NA,NA,NA,NA,2,Si
+17,Ivan Solis Jiménez,Masculino,7,1,Giovani Solis ,Femenino,Alimento,3,NA,NA,NA,NA,2,Si
+18,Giovani Solis Jiménez,Femenino,8,1,Giovani Solis ,Femenino,Alimento,3,NA,NA,NA,NA,2,Si
+19,Gilberto Salado,Masculino,11,2,Gilberto Salado,Masculino,Alimento,3,NA,NA,NA,NA,0,Si
+20,Fernando Galicia Garcia ,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,No
+21,Luis Murillo de León,Masculino,7,1,Elizabeth de Leon Gallo,Femenino,Normal,3,NA,NA,NA,NA,0,Si
+22,Enrique Barba Montañez,Masculino,8,1,Enrique Barba López,Masculino,Alimento,3,NA,Aguascalientes,20080,NA,0,Si
+23,Nestor Dominguez López,Masculino,9,2,Nestor Dominguez López,Masculino,Normal,3,NA,San_Pedro_Garza_García,66269,NA,0,Si
+24,Natalia Olguin Gutierrez,Femenino,13,3,Selene Gutierrez Mier,Femenino,Normal,3,Jardines de la Concepción,Aguascalientes,20120,NA,1,Si
+25,Cristina Olguin Gutierrez,Femenino,10,2,Selene Gutierrez Mier,Femenino,Normal,3,Jardines de la Concepción,Aguascalientes,20120,NA,1,Si
+26,Vidal De Anda Pizaña,Masculino,8,1,Wendy Pizaña Hurtado,Femenino,Normal,3,NA,NA,NA,NA,0,Si
+27,Alejandro Varela Moreno,Masculino,10,2,Claudia Moreno,Femenino,Normal,3,NA,NA,NA,NA,0,Si
+28,Jesus León Espinoza,Masculino,7,1,Victor Leon,Masculino,Alimento,3,NA,NA,NA,Entorno,0,Si
+29,Carlos Herrera Estrada,Masculino,8,1,Carlos Herrera Navarro,Masculino,Normal,3,NA,jesus María,2098,Entorno,0,Si
+30,Regina Lucci Garcés ,Femenino,13,3,Mercedes Garcés ,Femenino,Alimento,3,NA,NA,NA,NA,0,Si
+31,Emiliano Gonzalez Ramos ,Femenino,NA,NA,Jeanaette Ramos Sereñi,Femenino,Normal,3,NA,NA,NA,NA,1,No
+32,Mateo González Ramos,Masculino,12,3,Jeanaette Ramos Sereñi,Femenino,Normal,3,NA,Aguascalientes,20029,Entorno,1,Si
+33,Oscar Borja Sierra,Masculino,10,2,Erika Sierra Muñoz ,Femenino,Normal,3,NA,NA,NA,NA,0,Si
+34,José Lomas Jiménez,Masculino,13,3,Ramón Lomas Torres,Masculino,Alimento,3,NA,NA,NA,Entorno,1,Si
+35,Mariana Lomas Jiménez,Femenino,10,2,Ramón Lomas Torres,Masculino,Alimento,3,NA,NA,NA,Entorno,1,Si
+36,Jose García Enriquez,Masculino,NA,NA,NA,NA,Alimento,3,NA,NA,NA,NA,1,No
+37,Juan Corrales Enriquez,Masculino,NA,NA,NA,NA,Alimento,3,NA,NA,NA,NA,0,No
+38,Sebastian Casillas Mártinez ,Masculino,7,1,Roxana Martinez ,Femenino,Normal,3,NA,NA,NA,NA,1,Si
+39,Miguel de Río Patrón,Masculino,12,3,Ana Gabriela Patrón,Femenino,Normal,3,NA,NA,NA,NA,0,No
+40,Claudia Estrada ,Femenino,11,2,Javier Estrada,Masculino,Normal,3,NA,NA,NA,Entorno,0,Si
+41,Ivanna Casillas Martinez,Femenino,11,2,Roxana Martinez ,Femenino,Normal,2,NA,NA,NA,NA,1,Si
+42,Valente Ojeda Resendiz ,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,Si
+43,Luis Arroyo Gomez,Masculino,12,3,Blanca Gomez,Femenino,Alimento,3,NA,NA,NA,NA,0,Si
+44,Jorge Gonzalez Rivera,Masculino,NA,NA,NA,NA,Alimento,3,NA,NA,NA,NA,0,No
+45,Leonardo Ochoa Artega ,Masculino,11,2,Iris Arteaga ,Femenino,Normal,3,NA,Aguascalientes,NA,NA,3,Si
+46,Diego  Ochoa Arteaga,Masculino,9,2,Iris Arteaga ,Femenino,Normal,3,NA,Aguascalientes,NA,NA,3,Si
+47,Alejandro Ochoa Arteaga,Masculino,9,2,Iris Arteaga ,Femenino,Normal,3,NA,Aguascalientes,NA,NA,3,Si
+48,Martin Castorena Portilla,Masculino,6,1,Barbara Portilla Leal,Femenino,Alimento,3,NA,Morelia,NA,NA,1,Si
+49,Eva Castorena Portilla,Femenino,6,1,Barbara Portilla Leal,Femenino,Alimento,3,NA,Morelia,NA,NA,1,Si
+50,Danel Stump Miller,Masculino,10,2,Lua Miller Carrión,Femenino,Normal,2,Las Hadas,Aguascalientes,20140,NA,1,Si
+51,Jorge Flandes Vargas,Masculino,NA,NA,Jorge Flandez,Masculino,Normal,2,Exijido Ojo Caliente,Aguascalientes,20189,NA,2,No
+52,Laura Flandes Vargas,Femenino,9,2,Jorge Flandez,Masculino,Normal,1,Exijido Ojo Caliente,Aguascalientes,20190,NA,2,Si
+53,Luis Flandes Vargas,Masculino,NA,NA,Jorge Flandez,Masculino,Normal,1,Exijido Ojo Caliente,Aguascalientes,20191,NA,2,No
+54,Fernandando Saráchega Terrazas,Masculino,10,2,Silvia Terrazas Aguilar ,Femenino,Alimento,1,NA,NA,NA,NA,0,Si
+55,Patricio Anguiano Ruiz,Masculino,8,1,Ana Ruiz,Femenino,Alimento,3,NA,Aguascalientes,20140,NA,0,Si
+56,Pablo Montoya Ruiz,Masculino,NA,NA,NA,NA,Alimento,3,NA,NA,NA,NA,1,Si
+57,Maria Montoya Ruiz,Femenino,NA,NA,NA,NA,Alimento,3,NA,NA,NA,NA,1,Si
+58,Akilez Baez Aguñaga,Masculino,12,3,Maria del Carmen,Femenino,Normal,3,NA,NA,NA,NA,1,Si
+59,Itziar Baez Aguiñaga ,Masculino,9,2,Maria del Carmen,Femenino,Normal,3,NA,NA,NA,NA,1,Si
+60,Eishi Rendón Navarrete,Masculino,8,1,Rogelio Rendón,Masculino,Normal,1,NA,NA,NA,Entorno,1,Si
+61,Nozumo Emilio,Masculino,6,1,Rogelio Rendón,Masculino,Normal,1,NA,NA,NA,Entorno,1,Si
+62,José Cueva Rodríguez,Masculino,8,1,Hector Maximiliano,Masculino,Normal,3,NA,NA,NA,NA,0,Si
+63,Mateo Saldivar Alba,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,Si
+64,Hanna Carmona Gallegos,Femenino,11,2,Sandra Gallegos Ceja,Femenino,Normal,1,NA,NA,NA,NA,0,Si
+65,Hector Medina Muñoz,Masculino,8,1,Hector Medina Lopez,Masculino,Normal,3,NA,NA,NA,NA,0,Si
+66,Emiliano Gonzalez Velazquez ,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,2,Si
+67,Camila Gonzalez Velazquez,Femenino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,2,Si
+68,Maite Gonzalez Velazquez,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,2,Si
+69,Patricio Aviña Carranza,Masculino,9,2,Maria del Carmen Carranza,Femenino,Alimento,3,NA,NA,NA,NA,0,Si
+70,Mateo Avila Cruz,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,Si
+71,Leonardo Nuñez Dávila,Masculino,9,2,Mario Nuñez Medina,Masculino,Normal,3,NA,NA,NA,NA,1,Si
+72,Santiago Nuñez Dávila ,Masculino,7,1,Mario Nuñez Medina,Masculino,Normal,3,NA,NA,NA,NA,1,Si
+73,Ana Vargas López,Femenino,10,2,Guillermina López,Femenino,Alimento,3,NA,NA,NA,NA,1,Si
+74,Constanza Mendoza Garduña,Femenino,10,2,Pablo Mendoza,Masculino,Normal,3,NA,NA,NA,Entorno,0,Si
+75,Catena Janetzy Erszebet,Femenino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,Si
+76,Cesar Solis Castro,Masculino,NA,NA,NA,NA,Normal,1,NA,NA,NA,NA,0,Si
+77,Valentina Romo de Vivar Rangel,Femenino,13,3,Pascual Romo,Masculino,Normal,3,NA,NA,NA,NA,1,Si
+78,Luciana Romo de Vivar Rangel,Femenino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,1,Si
+79,Ehidan Ortíz Moreno,Masculino,8,1,Diana Moreno Solis,Femenino,Alimento,3,NA,NA,NA,NA,0,Si
+80,Arturo Mendoza,Masculino,14,3,Rocío Dorantes Morales,Femenino,Alimento,3,NA,NA,NA,Entorno,0,Si
+81,Pablo Romo Mejía ,Masculino,10,2,Antonia Romo Romo,Masculino,Alimento,1,NA,NA,NA,NA,0,Si
+82,Victoria Díaz López,Femenino,NA,NA,NA,NA,Alimento,3,NA,NA,NA,NA,1,Si
+83,Luis Díaz López,Masculino,NA,NA,NA,NA,Alimento,3,NA,NA,NA,NA,1,Si
+84,Juliana Campos Rabling,Femenino,9,2,Karla Rabling,Femenino,Alimento,1,NA,NA,NA,NA,2,Si
+85,Noah Campos Rambling,Masculino,7,1,Karla Rabling,Femenino,Alimento,1,NA,NA,NA,NA,2,Si
+86,Julieta Martinez Rabling,Femenino,9,2,Gabriela Rabling,Femenino,Alimento,1,NA,NA,NA,NA,2,Si
+87,Valentina Martinez Rabling,Femenino,8,1,Gabriela Rabling,Femenino,Alimento,1,NA,NA,NA,NA,2,Si
+88,Sofia Rabling Spiers,Femenino,11,2,Gabriela Rabling,Femenino,Alimento,1,NA,NA,NA,NA,2,No
+89,Oliver Rabling Spiers,Masculino,8,1,Karla Rabling,Femenino,Alimento,1,NA,NA,NA,NA,2,No
+90,Fernanda Rivera Mejia,Femenino,NA,NA,NA,NA,Alimento,1,NA,NA,NA,NA,1,No
+91,Karla Rivera Mejia,Femenino,NA,NA,NA,NA,Alimento,1,NA,NA,NA,NA,1,No
+92,Daniela Moreno Roja,Femenino,NA,NA,NA,NA,Alimento,1,NA,NA,NA,NA,0,No
+93,Kamilah Agüello Navarro,Femenino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,No
+94,Miriam López Vargas,Femenino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,Si
+95,Fernando Cabrera Reynosa,Masculino,7,1,Francisco Cabrera Aburto,Masculino,Alimento,3,NA,NA,NA,NA,0,Si
+96,Jorge Díaz padilla,Masculino,8,1,Georgina Padilla Ramirez,Femenino,Normal,3,NA,Aguascalientes,NA,Entorno,0,Si
+97,Mariano Vazquez Serna,Masculino,10,2,Elsa Serna Velazco,Femenino,Normal,3,NA,NA,NA,NA,1,Si
+98,Juan Serna Gomez,Masculino,14,3,Elsa Serna Velazco,Femenino,Normal,2,NA,NA,NA,NA,1,Si
+99,Diego Vasquez Hernandez,Masculino,11,2,Genova Hernandez Guzman,Femenino,Normal,2,NA,NA,NA,NA,0,Si
+100,Fernando Davalos Gutierrez,Masculino,NA,NA,NA,NA,Alimento,3,NA,NA,NA,NA,0,Si
+101,Diego Sanchéz Pámanes,Masculino,13,3,Laura Pámanes,Femenino,Normal,1,NA,Jesus María,20908,NA,0,No
+102,Ana Sofía Balderas,Femenino,8,1,Alicia Nuñez,Femenino,Normal,3,NA,Aguascalientes,NA,NA,0,Si
+103,Emiliano Ruiz Gutierrez,Masculino,10,2,Martin Ruiz Ramirez,Masculino,Alimento,2,NA,NA,NA,NA,0,Si
+104,Fernando Rosas Efremova,Masculino,11,2,Tatiana Efremova,Femenino,Alimento,3,NA,NA,NA,NA,1,Si
+105,Alexander Rosas Efremova,Masculino,8,1,Tatiana Efremova,Femenino,Alimento,3,NA,NA,NA,NA,1,Si
+106,Bruno Trujillo Lam,Masculino,9,2,Maria Gabriela Lam,Femenino,Normal,3,NA,NA,NA,NA,1,Si
+107,Gibran Trujillo Lam,Masculino,14,3,Maria Gabriela Lam,Femenino,Normal,3,NA,NA,NA,NA,1,Si
+109,Alan Kentaro Yamada,Masculino,13,3,Mashiro Yamada,Masculino,Alimento,3,NA,NA,NA,Nuevos Horizontes,0,Si
+110,Ana Padilla Villalobos,Femenino,NA,NA,NA,NA,Alimento,1,NA,NA,NA,NA,0,No
+111,Carola Sánchez Villalobos,Femenino,13,3,Adriana Villalobos Rabling,Femenino,Alimento,1,NA,NA,NA,NA,0,Si
+112,Bryan Taylor ,Masculino,10,2,Keith W ,Femenino,Normal,2,NA,NA,NA,NA,1,Si
+113,Andres Taylor,Masculino,7,1,Keith W ,Femenino,Normal,1,NA,NA,NA,NA,1,Si
+114,Gonzalo Diaz Aguila ,Femenino,11,2,Leslie Aguila Ochoa,Femenino,Normal,3,NA,NA,NA,NA,0,Si
+115,Roberto Nájera Ruvalcaba,Masculino,7,1,Adriana Ruvalcaba ,Femenino,Alimento,3,NA,NA,NA,NA,0,Si
+116,Zaid Jiménez Velázquez,Masculino,10,2,Elizabeth Velazquez,Femenino,Alimento,3,NA,NA,NA,NA,0,Si
+118,Nicolas Macias Muro,Masculino,6,1,Ingrid Muro,Femenino,Normal,1,NA,Aguascalientes,20130,NA,0,Si
+119,Emilio Riverón ,Masculino,11,2,Norma Gabriela,Femenino,Alimento,2,Jardines de la Concepción,Aguascalientes,20120,NA,0,Si
+120,Sara Guerra Macias,Femenino,12,3,Juan Eduardo González ,Femenino,Normal,3,NA,NA,NA,NA,2,Si
+121,César Said Morán ,Masculino,7,1,Fabiola Guzmán,Femenino,Normal,3,NA,NA,NA,NA,0,Si
+122,Pablo Samaniego Osuna,Masculino,13,3,Eduardo Samaniego Hernández ,Masculino,Normal,1,NA,NA,NA,NA,0,Si
+123,Alejandro Romo Cedillo,Masculino,14,3,Jorge Romo Rojas ,Masculino,Normal,3,NA,NA,NA,NA,0,Si
+124,José Medina Romo,Masculino,13,3,Norma Romo,Femenino,Normal,3,NA,NA,NA,NA,0,Si
+125,Saul Monroy Ramos,Masculino,10,2,Laura Ramos,Femenino,Alimento,3,NA,NA,NA,NA,0,Si
+126,Alexa Tadanga García ,Femenino,8,1,Alyn Garcia Chi,Femenino,Normal,1,NA,NA,NA,NA,0,Si
+127,Emiliano Martinez Flores,Masculino,11,2,Juana Flores Jiménez,Femenino,Alimento,3,NA,NA,NA,NA,0,Si
+128,Itzara Luévano del Río ,Femenino,NA,NA,NA,NA,Normal,2,NA,NA,NA,NA,0,No
+129,Santiago Flores de Lara,Masculino,NA,NA,NA,NA,Normal,1,NA,NA,NA,NA,0,No
+130,Maria González Macias,Femenino,12,3,Juan González González,Masculino,Normal,3,NA,NA,NA,NA,2,SI
+132,Ana González Macias,Femenino,8,1,Juan Eduardo González ,Masculino,Normal,3,NA,NA,NA,NA,2,SI
+133,Luis Varona Gutierrez,Masculino,8,1,Hilda Gutierrez,Femenino,,,NA,NA,NA,NA,0,SI
+134,Natalia Penna Rodriguez,Femenino,8,1,Cecilia Rodriguez,Femenino,Alimento,3,NA,NA,NA,NA,1,SI
+135,Santiafo Penna Rodriguez,Masculino,11,2,Cecilia Rodriguez,Femenino,Alimento,3,NA,NA,NA,NA,1,SI
+136,Sebastian Gutierrez Limon,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,No
+137,Fernando Gutierrez Limon,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,1,No
+138,Christian Sánchez Rodriguez,Masculino,13,3,Rodrigo Urueña,Masculino,Normal,3,NA,NA,NA,NA,0,Si
+139,Alan Cortes Harrup,Masculino,NA,NA,NA,NA,Alimento,1,NA,NA,NA,NA,0,No
+140,Gerardo Barba Ruiz,Masculino,NA,NA,NA,NA,Normal,1,NA,NA,NA,NA,0,No
+141,Diego Garza Sola,Masculino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,1,No
+142,Adair  Lara Martinez ,Masculino,NA,NA,NA,NA,,,NA,NA,NA,NA,0,No
+143,Karim Gutierrez Estrada,Femenino,NA,NA,NA,NA,Alimento,2,NA,NA,NA,NA,0,No
+144,Danna Berrones Espino,Femenino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,0,No
+146,Romina Marcos Vega,Femenino,NA,NA,NA,NA,Normal,2,NA,NA,NA,NA,2,No
+147,Fernanda Marcos Vegas,Femenino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,2,No
+148,Yeli Marcos Vega,Femenino,NA,NA,NA,NA,Normal,3,NA,NA,NA,NA,2,No
+149,Florencia Alcala Lomelí,Femenino,NA,NA,NA,NA,Normal,1,NA,NA,NA,NA,0,No
+150,Liliana Rodriguez,Femenino,NA,NA,NA,NA,Normal,1,NA,NA,NA,NA,1,No
